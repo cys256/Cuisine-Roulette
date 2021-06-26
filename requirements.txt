@@ -11,6 +11,8 @@ requests
 
 Flask
 
+pytest
+
 # pandas
 
 # other_package
